@@ -1,0 +1,1 @@
+const textDes = 'Trí nhớ là cái cốt lõi của sự thành công trong học tập cũng như công việc, người có trí nhớ tốt sẽ thuận tiện hơn rất nhiều trong cuộc sống. Tuy nhiên, không phải ai trong chúng ta cũng biết cách làm thế nào để có một trí nhớ tốt?. Để hiểu rõ hơn về điều này mời các bạn tham khảo Ebook "Để có trí nhớ tốt" ';
